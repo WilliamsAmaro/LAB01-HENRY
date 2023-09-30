@@ -24,4 +24,4 @@ threadpoolctl
 typing_extensions
 tzdata==2023.3
 urllib3==2.0.5
-uvicorn==0.23.2
+uvicorn
