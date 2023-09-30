@@ -1,7 +1,8 @@
 # LAB01-HENRY
 Puedes encontrar el deployment de la fast api aquí: <a href ="https://amaroroque.onrender.com/docs">FastAPI deployment
+
 Puedes encontrar los dataset json aquí: <a href ="https://drive.google.com/drive/folders/1nC4rmtFUjJ-w2_q_ABLV9ypoH7HImY2T">Datasets JSON
-Puedes encontrar los dataset csv aquí:
+Puedes encontrar los dataset csv aquí: <a href ="https://drive.google.com/drive/folders/1nC4rmtFUjJ-w2_q_ABLV9ypoH7HImY2T">Datasets csv
 
 ## **PROYECTO DE MACHINE LEARNING OPERATIONS (MLOps)**
 **Descripción:** LA plataforma multinacional de videojuegos ***STEAM***, requiere un sistema de recomendación con las siguientes métricas
