@@ -1,0 +1,18 @@
+1. Creo una carpeta 'FastAPI'
+2. Abro vscode y cargue la carpeta creada
+3. Abro la terminal (a lado de Run ...)
+4. Instalo librerias: pip install fastapi, uvicorn
+5. Creo un entorno virtual py -m venv env
+6. Ejecuto .\env\Scripts\activate
+'Si no permite, abro powershell y ejecuto'
+- Get-ExecutionPolicy
+- Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+- regreso a la terminal de python y ejecuto \env\Scripts\activate
+7. Instalo librerias fastapi, uvicorn, pandas, requests
+8. Creo una archivo main.py dentro de env
+9. Copio mi codigo con funciones
+10. En la terminal ejecuto uvicorn main:app --reload
+11. copio la dirección a un buscador y le agrego /docs
+
+'Listo'
+
