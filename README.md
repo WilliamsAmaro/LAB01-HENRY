@@ -40,7 +40,7 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 
 |      | sentiment_analysis|  playtime_forever|         price|
 |------|------------------|------------------|--------------|
-|count |       |43402.000000      |43402.000000  |43402.000000|
+|count |       43402.000000      |43402.000000  |43402.000000|
 |mean  |          1.336713|       2455.331598|     14.620766|
 |std   |           0.761618|       6243.369536|     13.362857|
 |min   |           0.000000|          0.000000|      0.000000|
