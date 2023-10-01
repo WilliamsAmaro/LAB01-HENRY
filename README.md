@@ -39,7 +39,7 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 *Descripción de las variables cuantitativas*
 
 |      | sentiment_analysis|  playtime_forever|         price|
-|------|------------------|------------------|--------------|
+|------|:------------------:|:------------------:|:--------------|
 |count |       43402      |43402  |43402|
 |mean  |          1.336|       2455.331|     14.620|
 |std   |           0.761|       6243.369|     13.362|
@@ -52,7 +52,7 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 *Distribución de sentiment_analysis*
 
 |sentiment_analysis||
-|------------------|-|
+|------------------|:-|
 |2|    25536|
 |1|    15194|
 |0|     8456|
