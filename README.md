@@ -23,7 +23,8 @@ En el archivo ETL.ipynb se detalla el procedimiento realizado, a modo resumen se
 - Se procedió a realizar un desanidación con json_normalize
 - Una vez visualizada todas las columnas, se hizo un reset al índice y realizado la conversión de los valores de cada columna según corresponda.
 - Aquí se obtuvieron 3 archivos los cuales están ubicados aquí:
- <a herf ="https://drive.google.com/drive/folders/1wLMybrjAryg2-qNfUOgdOpo3CqvqHNwK">Datasets.
+
+<a herf ="https://drive.google.com/drive/folders/1wLMybrjAryg2-qNfUOgdOpo3CqvqHNwK">Datasets.
 - Estos no se suben a este repositorio por restricciones de almacenamiento. Lo archivos que encontrarás son, uno llamado Reviews, Games, e Items, y el Archivo.csv donde está la unión de los 3 datasets.
   
 
