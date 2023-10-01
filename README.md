@@ -35,6 +35,28 @@ En el archivo [ETL.ipynb](ETL.ipynb) se detalla el procedimiento realizado, a mo
 Consistió de un análisis descriptivo para ver que variables incluir en el sistema de recomendación, para más detalle dirígete a [EDA.ipynb](EDA.ipynb)
 -   Aqui trabajamos con el archivo llamado [Archivo.csv](https://drive.google.com/drive/search?q=parent:1wLMybrjAryg2-qNfUOgdOpo3CqvqHNwK)
 -   Hacemos un resumen estadístico con describe().
+
+*Descripción de las variables cuantitativas*
+
+|       sentiment_analysis|  playtime_forever|         price|
+|-------------------------|------------------|--------------|
+|count |       |43402.000000      |43402.000000  |43402.000000|
+|mean  |          1.336713|       2455.331598|     14.620766|
+|std   |           0.761618|       6243.369536|     13.362857|
+|min   |           0.000000|          0.000000|      0.000000|
+|25%   |           1.000000|         46.000000|      9.990000|
+|50%   |           2.000000|        229.000000|     14.620766|
+|75%   |           2.000000|       1005.000000|    19.990000|
+|max   |           2.000000|     141766.000000|    771.710000|
+
+*Distribución de sentiment_analysis*
+
+|sentiment_analysis|
+|------------------|
+|2|    25536|
+|1|    15194|
+|0|     8456|
+  
 -   Luego nos centramos en la columna sentiment_analysis para ver la distribución de sus valores y se realiza un ploteo.
 -   Hacemos los cambios respectivos a la columna precio, la cual tiene valores string, y se cambian por 0 y estos a su vez por la media.
 -   Para las columnas genres y publisher, vizualizamos como están distribuidas, así tener presente que variable utilizar para el sitema de recomendación.
