@@ -39,6 +39,6 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 -   Hacemos los cambios respectivos a la columna precio, la cual tiene valores string, y se cambian por 0 y estos a su vez por la media.
 -   Para las columnas genres y publisher, vizualizamos como están distribuidas, así tener presente que variable utilizar para el sitema de recomendación.
 -   Se realiza una matriz de correlación, notanto que la correlación entre las variables cuantitativas es cercana a 0.
--   Luego guardamos el archivo con los cambios efectuados llamado Archivo2
+-   Luego guardamos el archivo con los cambios efectuados llamado [Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv)
 -   Finalmente realizamos la función para el sistema de recomendación, utilizando la ***similitud del coseno****
 
