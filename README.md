@@ -41,4 +41,13 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 -   Se realiza una matriz de correlación, notanto que la correlación entre las variables cuantitativas es cercana a 0.
 -   Luego guardamos el archivo con los cambios efectuados llamado [Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv)
 -   Finalmente realizamos la función para el sistema de recomendación, utilizando la ***similitud del coseno****
+-   Guardamos un dataset con las variables para el sistema de recomendación [aqui](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo_SCoseno.csv)
+
+**PASO 3: Creación del entorno de la FastAPI**
+
+Dirígete al siguiente [enlace](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/PasosFASTAPI.txt), donde se observa el paso a paso.
+
+**PASO 4: Deployment de la API**
+
+- Procedimos a subir los archivos a este repositorio: main.py, requirements.txt, configuración, y los datasets ([Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv) y [Archivo_SCoseno](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo_SCoseno.csv))
 
