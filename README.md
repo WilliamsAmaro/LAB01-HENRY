@@ -51,8 +51,8 @@ Consistió de un análisis descriptivo para ver que variables incluir en el sist
 
 *Distribución de sentiment_analysis*
 
-|sentiment_analysis|
-|------------------|
+|sentiment_analysis||
+|------------------|-|
 |2|    25536|
 |1|    15194|
 |0|     8456|
