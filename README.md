@@ -5,7 +5,7 @@ Puedes encontrar los dataset json aquí: <a href ="https://drive.google.com/driv
 
 Puedes encontrar los dataset csv aquí: <a href ="https://drive.google.com/drive/folders/1nC4rmtFUjJ-w2_q_ABLV9ypoH7HImY2T">Datasets csv
 
-Puede encontrar el video aqui: <a hrf ="https://drive.google.com/drive/folders/1WXd3cUM_8dN_CGiFrw8hsUjEyiMyAQ7p">video
+Puede encontrar el video aqui: <a href ="https://drive.google.com/drive/folders/1WXd3cUM_8dN_CGiFrw8hsUjEyiMyAQ7p"> Video
 
 ## **PROYECTO DE MACHINE LEARNING OPERATIONS (MLOps)**
 **Descripción:** LA plataforma multinacional de videojuegos ***STEAM***, requiere un sistema de recomendación con las siguientes métricas
