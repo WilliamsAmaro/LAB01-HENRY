@@ -30,5 +30,13 @@ En el archivo [ETL.ipynb](ETL.ipynb) se detalla el procedimiento realizado, a mo
   
 
 **PASO 2: Realización del EDA**
-Consistió de un análisis prescriptivo para ver que variables incluir en el sistema de recomendación
+Consistió de un análisis prescriptivo para ver que variables incluir en el sistema de recomendación, para más detalle dirígete a 
+-   Aqui trabajamos con el archivo llamado [Archivo.csv](https://drive.google.com/drive/search?q=parent:1wLMybrjAryg2-qNfUOgdOpo3CqvqHNwK)
+-   Hacemos un resumen estadístico con describe().
+-   Luego nos centramos en la columna sentiment_analysis para ver la distribución de sus valores y se realiza un ploteo.
+-   Hacemos los cambios respectivos a la columna precio, la cual tiene valores string, y se cambian por 0 y estos a su vez por la media.
+-   Para las columnas genres y publisher, vizualizamos como están distribuidas, así tener presente que variable utilizar para el sitema de recomendación.
+-   Se realiza una matriz de correlación, notanto que la correlación entre las variables cuantitativas es cercana a 0.
+-   Luego guardamos el archivo con los cambios efectuados llamado Archivo2
+-   Finalmente realizamos la función para el sistema de recomendación, utilizando la ***similitud del coseno****
 
