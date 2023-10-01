@@ -8,7 +8,7 @@ Puedes encontrar los dataset csv aquí: <a href ="https://drive.google.com/drive
 Puede encontrar el video aqui: <a href ="https://drive.google.com/drive/folders/1WXd3cUM_8dN_CGiFrw8hsUjEyiMyAQ7p"> Video
 
 ## **PROYECTO DE MACHINE LEARNING OPERATIONS (MLOps)**
-**Descripción:** LA plataforma multinacional de videojuegos ***STEAM***, requiere un sistema de recomendación con las siguientes métricas
+**Descripción:** La plataforma multinacional de videojuegos ***STEAM***, requiere un sistema de recomendación con las siguientes métricas
 - def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
 - def UsersRecommend( año : int ): Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año.
 - def UsersNotRecommend( año : int ): Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos).
