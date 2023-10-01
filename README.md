@@ -17,7 +17,7 @@ Puede encontrar el video aqui: <a href ="https://drive.google.com/drive/folders/
 
 ### **PASOS REALIZADOS**
 **PASO 1: Realización del ETL**
-En el archivo ETL.ipynb se detalla el procedimiento realizado, a modo resumen se explica a continuación:
+En el archivo [ETL.ipynb](ETL.ipynb) se detalla el procedimiento realizado, a modo resumen se explica a continuación:
 - Abrimos uno a uno los archivos json
 - Se realizó un explode a la variable o columna anidada.
 - Se procedió a realizar un desanidación con json_normalize
