@@ -17,6 +17,7 @@ Puede encontrar el video aqui: <a href ="https://drive.google.com/drive/folders/
 
 ### **PASOS REALIZADOS**
 **PASO 1: Realización del ETL**
+
 En el archivo [ETL.ipynb](ETL.ipynb) se detalla el procedimiento realizado, a modo resumen se explica a continuación:
 - Abrimos uno a uno los archivos json
 - Se realizó un explode a la variable o columna anidada.
@@ -30,7 +31,8 @@ En el archivo [ETL.ipynb](ETL.ipynb) se detalla el procedimiento realizado, a mo
   
 
 **PASO 2: Realización del EDA**
-Consistió de un análisis prescriptivo para ver que variables incluir en el sistema de recomendación, para más detalle dirígete a 
+
+Consistió de un análisis descriptivo para ver que variables incluir en el sistema de recomendación, para más detalle dirígete a [EDA.ipynb](EDA.ipynb)
 -   Aqui trabajamos con el archivo llamado [Archivo.csv](https://drive.google.com/drive/search?q=parent:1wLMybrjAryg2-qNfUOgdOpo3CqvqHNwK)
 -   Hacemos un resumen estadístico con describe().
 -   Luego nos centramos en la columna sentiment_analysis para ver la distribución de sus valores y se realiza un ploteo.
