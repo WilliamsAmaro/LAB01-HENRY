@@ -72,7 +72,7 @@ Dirígete al siguiente [enlace](https://github.com/WilliamsAmaro/LAB01-HENRY/blo
 
 **PASO 4: Deployment de la API**
 
-- Procedimos a subir los archivos a este repositorio: main.py, requirements.txt, configuración, y los datasets ([Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv) y [Archivo_SCoseno](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo_SCoseno.csv))
+- Procedimos a subir los archivos a este repositorio: [main.py](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/main.py), requirements.txt, configuración, y los datasets ([Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv) y [Archivo_SCoseno](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo_SCoseno.csv))
 - Asi queda el deployment:
 ![Imagen](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/DeploymentAPI.png)
 
