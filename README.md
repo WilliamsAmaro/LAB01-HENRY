@@ -10,6 +10,7 @@ Puede encontrar el video aqui: <a href ="https://drive.google.com/drive/folders/
 ## **PROYECTO DE MACHINE LEARNING OPERATIONS (MLOps)**
 **Descripción:** La plataforma multinacional de videojuegos ***STEAM***, requiere un sistema de recomendación con las siguientes métricas
 - def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
+- def UserForGenre( genero : str ): Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
 - def UsersRecommend( año : int ): Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año.
 - def UsersNotRecommend( año : int ): Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos).
 - def sentiment_analysis( año : int ): Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
@@ -74,4 +75,8 @@ Dirígete al siguiente [enlace](https://github.com/WilliamsAmaro/LAB01-HENRY/blo
 - Procedimos a subir los archivos a este repositorio: main.py, requirements.txt, configuración, y los datasets ([Archivo2](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo2.csv) y [Archivo_SCoseno](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/Archivo_SCoseno.csv))
 - Asi queda el deployment:
 ![Imagen](https://github.com/WilliamsAmaro/LAB01-HENRY/blob/main/DeploymentAPI.png)
+
+
+### AUTOR
+[Williams Alexander Amaro Roque](linkedin.com/in/williams-alexander-amaro-roque-075b8421b/)
 
