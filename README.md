@@ -1,4 +1,4 @@
-# LAB01-HENRY
+# Proyecto Individual: MLOps
 Puedes encontrar el deployment de la fast api aquí: <a href ="https://amaroroque.onrender.com/docs">FastAPI deployment
 
 Puedes encontrar los dataset json aquí: <a href ="https://drive.google.com/drive/folders/1nC4rmtFUjJ-w2_q_ABLV9ypoH7HImY2T">Datasets JSON
